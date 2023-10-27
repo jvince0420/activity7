@@ -1,0 +1,64 @@
+a{
+    color: white;
+    text-decoration: none;
+    margin-right: 25px;
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+p{
+    background-color: green;
+    text-align: right;
+    padding: 15px;
+    border-bottom: 3px solid gold;
+    border-top: 3px solid gold;
+
+}
+img{
+    display: block;
+    width: 20%;
+    margin: auto;
+    border: 3px solid darkgreen;
+    border-radius: 50%;
+    box-shadow: 10px 5px 10px darkgreen;
+}
+table{
+    border: 1px solid darkgreen;
+    border-collapse: collapse;
+}
+td{
+    border: 1px solid darkgreen;
+    padding: 5px;
+}
+.homestyle:hover{
+    background-color:gold;
+    color: black;
+    font-weight: bold;
+}
+.ctestyle:hover{
+    background-color:blue;
+    color: gold;
+    font-weight: bold;
+    padding: 5px;
+}
+.coestyle:hover{
+    background-color:maroon;
+    color: white;
+    font-weight: bold;
+    padding: 5px;
+}
+.citstyle:hover{
+    background-color:darkgreen;
+    color: gold;
+    font-weight: bold;
+    padding: 5px;
+}
+span{
+    position: fixed;
+    bottom: 1%;
+    left: 40%;
+    background-color: lightgreen;
+}
+h1{
+    text-align: center;
+}
